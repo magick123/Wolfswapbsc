@@ -89,6 +89,6 @@ export default createReducer(initialState, builder =>
       }
     })
     .addCase(updateVersion, state => {
-      delete state.byUrl['http://tokens.babywolfcoin.com/tokens.json']
+      delete state.byUrl['http://tokens.bscswap.com/tokens.json']
     })
 )
