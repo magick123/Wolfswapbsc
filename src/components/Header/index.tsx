@@ -21,13 +21,13 @@ import Web3Status from '../Web3Status'
 const Nav: React.FC = () => {
   return (
     <StyledNav>
-      <StyledAbsoluteLink href="https://bscbonus.com" target="_blank" >Welcome bonus</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://trade.bscswap.com/#/swap" className="active">Trade</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://bscswap.info" target="_blank">Analysis</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://babywolfcoin.com" target="_blank" >Home</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://swap.babywolfcoin.com/#/swap" className="active">Trade</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://info.babywolfcoin.com" target="_blank">Charts</StyledAbsoluteLink>
       {/* <StyledAbsoluteLink href="https://bscswap.pro" target="_blank">BSCswap Pro</StyledAbsoluteLink> */}
       {/* <StyledAbsoluteLink href="https://stable.bscswap.com" target="_blank">BSCswap Stable</StyledAbsoluteLink> */}
-      <StyledAbsoluteLink href="https://degenswap.io" target="_blank">DegenSwap</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pool.bscswap.com" target="_blank">LaunchField</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://social.babywolfcoin.com" target="_blank">Cryptobook</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://pools.babywolfcoin.com" target="_blank">Staking</StyledAbsoluteLink>
     </StyledNav>
   )
 }

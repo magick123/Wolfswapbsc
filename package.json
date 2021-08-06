@@ -1,6 +1,6 @@
 {
   "name": "@bscswap/interface",
-  "description": "BSCswap Interface",
+  "description": "WolfSwap Interface",
   "homepage": ".",
   "private": true,
   "devDependencies": {
