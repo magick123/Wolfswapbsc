@@ -23,11 +23,11 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledAbsoluteLink href="https://babywolfcoin.com" target="_blank" >Home</StyledAbsoluteLink>
       <StyledAbsoluteLink href="https://swap.babywolfcoin.com/#/swap" className="active">Trade</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://info.babywolfcoin.com" target="_blank">Charts</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://poocoin.app/tokens/0x658039559dc9d82703fbeb9fcbd76e238b229a70" target="_blank">Charts</StyledAbsoluteLink>
       {/* <StyledAbsoluteLink href="https://bscswap.pro" target="_blank">BSCswap Pro</StyledAbsoluteLink> */}
       {/* <StyledAbsoluteLink href="https://stable.bscswap.com" target="_blank">BSCswap Stable</StyledAbsoluteLink> */}
       <StyledAbsoluteLink href="https://social.babywolfcoin.com" target="_blank">Cryptobook</StyledAbsoluteLink>
-      <StyledAbsoluteLink href="https://pools.babywolfcoin.com" target="_blank">Staking</StyledAbsoluteLink>
+      <StyledAbsoluteLink href="https://babywolfcoin.com" target="_blank">Staking</StyledAbsoluteLink>
     </StyledNav>
   )
 }
